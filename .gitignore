@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 artifact
+saved_models
+main2.py
+main3.py
 # C extensions
 *.so
 demotest.py
